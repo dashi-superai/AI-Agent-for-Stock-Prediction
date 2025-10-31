@@ -1,21 +1,2 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*.pyo
-
-# Virtual environment
-venv/
-env/
-
-# Environment variables
-.env
-
-# Jupyter Notebook checkpoints
-*.ipynb_checkpoints
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# CSV output
-*_stock_data.csv
+# Exclude setup script
+setup-git.bat
